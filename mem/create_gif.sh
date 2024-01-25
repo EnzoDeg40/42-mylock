@@ -1,0 +1,1 @@
+convert -delay 500 -loop 0 -resize 300x300! *.jpeg ../random.gif
